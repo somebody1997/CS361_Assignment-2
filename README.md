@@ -36,3 +36,6 @@ The microservice responds with a JSON object containing the recommendation. For 
 }
 ```
 For a sell request, the structure would be similar, indicating the best sell price and date.
+
+
+![image](https://github.com/somebody1997/CS361_Assignment-2/blob/main/%E6%88%AA%E5%9C%96%202024-02-27%20%E4%B8%8B%E5%8D%883.57.00.png)
